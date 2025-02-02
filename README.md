@@ -14,6 +14,8 @@ VeruxNetwork is a premier Minecraft server offering an engaging and competitive 
 
 ### [isslypa](https://github.com/isslypa)
 
+![isslypa](https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4) <!-- Replace YOUR_USER_ID with your actual user ID -->
+
 - **Role:** Owner and Head Developer
 - **Profile:** [isslypa on GitHub](https://github.com/isslypa)
 
