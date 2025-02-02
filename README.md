@@ -6,7 +6,7 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=VexPvPNetwork&style=plastic&color=blueviolet)](https://github.com/VexPvPNetwork)
+[![](https://komarev.com/ghpvc/?username=VeruxNetwork&style=plastic&color=blueviolet)](https://github.com/VexPvPNetwork)
   
 ---
 
