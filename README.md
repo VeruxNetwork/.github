@@ -1,3 +1,15 @@
+<div align="center">
+  
+---
+  
+![image](https://i.imgur.com/UxNTNUy.png)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=VexPvPNetwork&style=plastic&color=blueviolet)](https://github.com/VexPvPNetwork)
+  
+---
+
 # VeruxNetwork
 
 Welcome to the official GitHub repository of VeruxNetwork!
@@ -14,10 +26,20 @@ VeruxNetwork is a premier Minecraft server offering an engaging and competitive 
 
 ### [isslypa](https://github.com/isslypa)
 
-![isslypa](https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4) <!-- Replace YOUR_USER_ID with your actual user ID -->
+![isslypa](https://avatars.githubusercontent.com/your_user_id?v=4)
 
 - **Role:** Owner and Head Developer
 - **Profile:** [isslypa on GitHub](https://github.com/isslypa)
+
+## Collaborators
+  
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=isslypa&data=followers,repositories,stars,commits"></p>
+  
+---
+  
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,xml,json,yaml,sh&includeNames=true"></p>
+
+---
 
 ## Connect with Us
 
